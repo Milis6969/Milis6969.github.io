@@ -1,5 +1,10 @@
 <?php
 
+//Obrazek
+
+echo '<img src="clasico.png" alt="obrazek" />';
+
+
 //Typy proměnných
 
 $a = 4;
