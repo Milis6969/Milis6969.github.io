@@ -73,17 +73,17 @@ var_dump($a<$b);
 
 //Spojeni retezcu
 
-echo "au"."ti"."cko";
+echo "mas"."li"."cko";
 
 echo "<br>";
 
-echo "blb" . "ost";
+echo "jak" . "ost";
 
 echo "<br>";
 
-echo 5 . 7;
+echo 6 . 8;
 
-echo 2.3;
+echo 4.8;
 
 
 //Aritmeticke operatory
@@ -96,7 +96,7 @@ echo $a*$b;
 var_dump($a*$b);
 
 
-print "<br>Deleni = ";
+print "<br>Delitel = ";
 
 echo $a/$b;
 
@@ -105,18 +105,19 @@ var_dump($a/$b);
 ?>
 
 
+print "<br>Odcitani = ";
+
+echo $a-$b;
+
+var_dump($a-$b);
+
+
 print "<br>Scitani = ";
 
 echo $a+$b;
 
 var_dump($a+$b);
 
-
-print "<br>Odcitani = ";
-
-echo $a-$b;
-
-var_dump($a-$b);
 
 ?>
 </body>
